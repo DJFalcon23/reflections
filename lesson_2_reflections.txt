@@ -2,4 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 	It allows version control by git in that repository.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Its a concept and not an actual directory. I think it offers better control over what goes in the repository.
-test
+How can you use the staging area to make sure you have one commit per logical change?
+	By using "git diff --staging"
