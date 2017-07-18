@@ -7,4 +7,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history? How would branches help?
 	When you want to test out some new code with out effecting your current build, which will keep your current build safe from bugs.
 How do the diagrams help you visualize the branch structure?
-	Its hard to explain. 
+	Its hard to explain.
+What is the result of merging the two branches together? Why do we repersent it in the diagram the way we do?
+	It added the commits in the 'coins' branch into the master branch. So we know that we didn't make the 'coins' branch the master branch.
